@@ -12,7 +12,7 @@
 10. git branch dev --> Creates a new branch named dev
 11. git switch dev --> to switch to a new branch (dev in this case)
     git checkout dev --> both switch and checkout are same
-12. git log
+12. git log -->
 13. git log --oneline
 
 
