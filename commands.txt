@@ -7,5 +7,6 @@
 5. git restore
 6. git remote -v --> to see if your remote directory is added
 7. git push origin master --> to push your code from local to remmote
+8. git pull origin master --> to pull your code from github(remote) to local
 
 Hey! we have done some changes in github!
