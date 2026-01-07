@@ -8,5 +8,14 @@
 6. git remote -v --> to see if your remote directory is added
 7. git push origin master --> to push your code from local to remmote
 8. git pull origin master --> to pull your code from github(remote) to local
+9. git branch --> show your current and all branches
+10. git branch dev --> Creates a new branch named dev
+11. git switch dev --> to switch to a new branch (dev in this case)
+    git checkout dev --> both switch and checkout are same
+12. git log
+13. git log --oneline
+
 
 Hey! we have done some changes in github!
+
+
