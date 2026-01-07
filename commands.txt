@@ -1,7 +1,9 @@
 # Commands used in this Project
 
-1. git init - to initialize a repository
+1. git init --> to initialize a repository
 2. git status - 
 3. git add <filename>
 4. git commit - m "message"
 5. git restore
+6. git remote -v --> to see if your remote directory is added
+7. git push origin master --> to push your code from local to remmote
